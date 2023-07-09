@@ -3,9 +3,6 @@
 
 A abordagem da Visão 3.0 é uma resposta ao mundo VUCA, propondo uma nova forma de pensar e agir. Ela enfatiza a importância de uma visão estratégica, flexibilidade, adaptação rápida e colaboração. A Visão 3.0 reconhece que as soluções do passado podem não ser mais aplicáveis e que é necessário desenvolver novas habilidades para lidar com os desafios atuais e futuros.
 
-## Livro
-![Imagem](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD…Qo9pfx+QoooD2l/H5Cj2l/H5CiigZxOJfIdfkPGvaKKD/2Q==)
-
 ## Sites referência
 O Docker é uma ferramenta amplamente utilizada no contexto do DevOps devido à sua capacidade de fornecer ambientes de desenvolvimento consistentes, escaláveis e replicáveis.
 [Harvard Business Review](https://hbr.org/)
